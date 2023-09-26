@@ -139,4 +139,4 @@ dependencies:
 License
 ----
 
-Mohamed fahmy License
+BSD 3-clause License
