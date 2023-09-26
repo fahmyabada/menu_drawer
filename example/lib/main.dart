@@ -79,7 +79,7 @@ class ExampleApp extends StatelessWidget {
               ),
             ),
             leading: const Icon(
-              Icons.home,
+              Icons.support,
               color: Colors.grey,
               size: 25,
             ),
@@ -103,7 +103,7 @@ class ExampleApp extends StatelessWidget {
               ),
             ),
             leading: const Icon(
-              Icons.home,
+              Icons.abc_outlined,
               color: Colors.grey,
               size: 25,
             ),
