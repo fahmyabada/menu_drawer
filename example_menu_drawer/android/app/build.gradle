@@ -49,6 +49,9 @@ android {
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
+        manifestPlaceholders = [
+                'appAuthRedirectScheme': 'com.fahmy.example_menu_drawer' // Add this also using your application ID URI as the based for all your derived URi
+        ]
     }
 
     buildTypes {
