@@ -136,10 +136,6 @@ dependencies:
   }
 ```
 
-
-| ![screenshot](screenshot-1.png)  |
-
-
 License
 ----
 
