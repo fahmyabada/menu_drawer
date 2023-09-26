@@ -4,6 +4,9 @@
 
 A Flutter package with custom implementation of Drawer Menu
 
+<img src="screenshot-1.png" alt="drawing" width="250" height="481"/>
+
+
 To start using this package, add `menu_drawer` dependency to your `pubspec.yaml`
 
 ```yaml
