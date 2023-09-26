@@ -1,30 +1,46 @@
-# Flutter menu drawer 
+import 'package:flutter/material.dart';
+import 'package:menu_drawer/menu.dart';
 
-[![pub package](https://img.shields.io/badge/pub-1.0.0-blue)](https://github.com/fahmyabada/menu_drawer)
+void main() {
+  runApp(const MyApp());
+}
 
-A Flutter package with custom implementation of Menu Drawer 
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
 
-<img src="screenshot-1.png" alt="drawing" width="250" height="481"/>
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        // This is the theme of your application.
+        //
+        // TRY THIS: Try running your application with "flutter run". You'll see
+        // the application has a blue toolbar. Then, without quitting the app,
+        // try changing the seedColor in the colorScheme below to Colors.green
+        // and then invoke "hot reload" (save your changes or press the "hot
+        // reload" button in a Flutter-supported IDE, or press "r" if you used
+        // the command line to start the app).
+        //
+        // Notice that the counter didn't reset back to zero; the application
+        // state is not lost during the reload. To reset the state, use hot
+        // restart instead.
+        //
+        // This works for code too, not just values: Most code changes can be
+        // tested with just a hot reload.
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
+      ),
+      home: const ExampleApp(),
+    );
+  }
+}
 
+class ExampleApp extends StatelessWidget {
+  const ExampleApp({super.key});
 
-To start using this package, add `menu_drawer` dependency to your `pubspec.yaml`
-
-```yaml
-dependencies:
-  menu_drawer: '<latest_release>'
-```
-
-# Features
-
-- control header menu
-- add many items (all control leading - all control name - press)
-- add power by
-- add versions
-
-# how to use
-
-```
-@override
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(),
@@ -134,9 +150,4 @@ dependencies:
       ),
     );
   }
-```
-
-License
-----
-
-Mohamed fahmy License
+}

@@ -1,4 +1,4 @@
-library plugin_menu;
+library menu_drawer;
 
 import 'package:flutter/material.dart';
 import 'package:menu_drawer/image_tools.dart';
