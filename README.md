@@ -13,6 +13,10 @@ A Flutter package with custom implementation of Menu Drawer
   </tr>
 </table>
 
+screenshots:
+- description: 'Examples of the container transform pattern.'
+  path: example/screenshots/screenshot_1.png
+
 To start using this package, add `menu_drawer` dependency to your `pubspec.yaml`
 
 ```yaml
