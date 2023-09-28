@@ -1,4 +1,4 @@
-publish_to: none
+publish_to: 'none'
 
 name: menu_drawer
 description: A Flutter package with custom implementation of Menu Drawer.
