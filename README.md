@@ -4,8 +4,7 @@
 
 A Flutter package with custom implementation of Menu Drawer 
 
-<img src="screenshot_1.png" alt="screenshot" width="250" height="481"/>
-![slider_document](screenshot_1.png)
+<img src="https://drive.google.com/file/d/1E0Qk83TkKrR6kiyYfw_Fab-o3ki83F4P/view?usp=sharing" alt="screenshot" width="250" height="481"/>
 
 
 To start using this package, add `menu_drawer` dependency to your `pubspec.yaml`
