@@ -2,9 +2,9 @@ publish_to: none
 
 name: menu_drawer
 description: A Flutter package with custom implementation of Menu Drawer.
-version: 1.0.0
-#homepage: https://github.com/fahmyabada/menu_drawer
-#maintainer: Mohamed Fahmy
+version: 1.0.1
+homepage: https://github.com/fahmyabada/menu_drawer
+maintainer: Mohamed Fahmy
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
