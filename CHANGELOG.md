@@ -6,3 +6,5 @@
 
 * modify example 
 * change project to private
+
+## [1.0.2] - Release

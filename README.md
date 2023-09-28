@@ -1,6 +1,6 @@
 # Flutter menu drawer 
 
-[![pub package](https://img.shields.io/badge/pub-1.0.1-blue)](https://github.com/fahmyabada/menu_drawer)
+[![pub package](https://img.shields.io/badge/pub-1.0.2-blue)](https://github.com/fahmyabada/menu_drawer)
 
 A Flutter package with custom implementation of Menu Drawer 
 
