@@ -6,6 +6,12 @@ A Flutter package with custom implementation of Menu Drawer
 
 <img src="https://drive.google.com/file/d/1E0Qk83TkKrR6kiyYfw_Fab-o3ki83F4P/view?usp=sharing" alt="screenshot" width="250" height="481"/>
 
+<table>
+  <tr>
+    <td><img src="https://github.com/fahmyabada/menu_drawer/blob/master/screenshot_1.png" alt="Success Status" width="200"></td>
+    <td><img src="https://github.com/mdazharuddin1011999/UPI-Plugin-Flutter/raw/master/images/show.gif" alt="How example looks" width="200"></td>
+  </tr>
+</table>
 
 To start using this package, add `menu_drawer` dependency to your `pubspec.yaml`
 
