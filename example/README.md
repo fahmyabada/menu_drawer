@@ -1,4 +1,4 @@
-# example_menu_drawer
+# example
 
 A new Flutter project.
 
